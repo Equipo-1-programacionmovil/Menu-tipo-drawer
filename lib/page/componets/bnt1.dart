@@ -25,8 +25,8 @@ class MyButton extends StatelessWidget {
             backgroundColor:
                 Color.fromARGB(157, 157, 158, 158), // Color de fondo del botón
             shape: RoundedRectangleBorder(
-              borderRadius:
-                  BorderRadius.circular(0), // Bordes redondos del botón
+              borderRadius: BorderRadius.circular(0),
+              // Bordes redondos del botón
             ),
           ),
           child: Text(
